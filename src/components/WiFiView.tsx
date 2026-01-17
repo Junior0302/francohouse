@@ -8,7 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 import { Button } from "@/components/ui/button"
 
 const WIFI_CONFIG = {
-  ssid: "Francohouse",
+  ssid: "Bbox-72E8AB75-Plus",
   password: "i6qpbn4QHVjySHEGMA",
   encryption: "WPA",
 }
