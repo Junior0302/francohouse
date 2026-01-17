@@ -6,7 +6,7 @@ import { Wifi, LayoutDashboard, BarChart3, Settings } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 const navItems = [
-  { name: "Wi-Fi", href: "/", icon: Wifi },
+  { name: "Wi-Fi", href: "/wifi", icon: Wifi },
   { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
   { name: "Stats", href: "/stats", icon: BarChart3 },
   { name: "Settings", href: "/settings", icon: Settings },
